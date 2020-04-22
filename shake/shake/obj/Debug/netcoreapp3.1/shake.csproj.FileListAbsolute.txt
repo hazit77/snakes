@@ -1,0 +1,13 @@
+D:\repo\OOP\shake\shake\bin\Debug\netcoreapp3.1\shake.exe
+D:\repo\OOP\shake\shake\bin\Debug\netcoreapp3.1\shake.deps.json
+D:\repo\OOP\shake\shake\bin\Debug\netcoreapp3.1\shake.runtimeconfig.json
+D:\repo\OOP\shake\shake\bin\Debug\netcoreapp3.1\shake.runtimeconfig.dev.json
+D:\repo\OOP\shake\shake\bin\Debug\netcoreapp3.1\shake.dll
+D:\repo\OOP\shake\shake\bin\Debug\netcoreapp3.1\shake.pdb
+D:\repo\OOP\shake\shake\obj\Debug\netcoreapp3.1\shake.csprojAssemblyReference.cache
+D:\repo\OOP\shake\shake\obj\Debug\netcoreapp3.1\shake.csproj.CoreCompileInputs.cache
+D:\repo\OOP\shake\shake\obj\Debug\netcoreapp3.1\shake.AssemblyInfoInputs.cache
+D:\repo\OOP\shake\shake\obj\Debug\netcoreapp3.1\shake.AssemblyInfo.cs
+D:\repo\OOP\shake\shake\obj\Debug\netcoreapp3.1\shake.dll
+D:\repo\OOP\shake\shake\obj\Debug\netcoreapp3.1\shake.pdb
+D:\repo\OOP\shake\shake\obj\Debug\netcoreapp3.1\shake.genruntimeconfig.cache
